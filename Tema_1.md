@@ -21,54 +21,50 @@
 Работу проверили:
 
 1. Установка
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/1.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/1.png)
 
 2. Настройка
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/2.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/2.png)
 
 3. Создание нового репозитория
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/3.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/3.png)
 
 4. Подготовка файлов
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/4.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.png)
 
 5. Фиксация изменений
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/5.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/5.png)
 
 6. Подключение к удаленному репозиторию
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/6.1.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/6.png)
 
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/6.2.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/7.png)
 
 
 7. Ветвление
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/7.png)
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/8.png)
 
-8. Особенности применения «Фетч»
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/8.png)
-
-9. Удаление файлов, веток, локальных и удалённых репозиториев
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/9.png
+8. Удаление файлов, веток, локальных и удалённых репозиториев
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/9%20(%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2).png
 )
 
-10. Отслеживание изменений в коммитах
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/10.png)
+9. Отслеживание изменений в коммитах
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/10.png)
 
-11. Возвращение файла к предыдущему (определенному) состоянию
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/11.png)
+10. Возвращение файла к предыдущему (определенному) состоянию
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/11.png)
 
-12. Возвращение к предыдущему коммиту
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/12.png)
+11. Возвращение к предыдущему коммиту
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/12.png)
 
-13. Исправление коммита
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/13.png)
+12. Исправление коммита
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/13%20%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%B0.png)
 
-14. Разрешение конфликтов при слиянии
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/14.png)
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/14.2.png)
+13. Разрешение конфликтов при слиянии
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/14.png)
 
-15. Настройка .gitignore
-![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/15.png)
+14. Настройка .gitignore
+![Меню](https://github.com/TyrionTrapper/SoftwareEngineering/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/15.png)
 
 ## Лабораторная работа №2
 - Текст задания
